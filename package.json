@@ -1,0 +1,29 @@
+{
+  "name": "dat-replicate",
+  "version": "0.1.0",
+  "description": "Replicate a hypercore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Wiley",
+  "license": "MIT",
+  "keywords": [
+    "dat",
+    "replicate"
+  ],
+  "dependencies": {
+    "hypercore": "^6.25.2",
+    "hyperdiscovery": "^8.0.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwiley4000/dat-replicate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benwiley4000/dat-replicate/issues"
+  },
+  "homepage": "https://github.com/benwiley4000/dat-replicate#readme"
+}
